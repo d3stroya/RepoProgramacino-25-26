@@ -36,3 +36,10 @@ Tema2/Tema2/nbproject/private/private.xml
 /Tema2/Tema2/nbproject/private
 /ProyectoGestionColaCorreos/nbproject/private/
 /ProyectoGestionColaCorreos/build/
+/Tema04/Tema4/nbproject/private/
+/Tema02/Tema2/build/
+/Tema02/Tema2/nbproject/private/
+/Tema04/Tema4/build/
+*.xml
+*.mf
+*.properties
